@@ -1,0 +1,1 @@
+# QA_Calculadora_Test
